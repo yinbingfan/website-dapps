@@ -1,6 +1,5 @@
-# dappweb
+# dapps-website
 
-> My awe-inspiring Nuxt.js project
 
 ## Build Setup
 
