@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "首页",
+    "language": "中文"
+  },
+  "home":{
+    "Featured":"特色",
+    "RankingByPlatform":"平台排行榜",
+    "RecentlyAdded":"最近上架",
+    "latestDapps":"最新的Dapps最近提交",
+    "viewAll":"查看全部",
+    "Category":"类别",
+    "Users":"用户",
+    "Volume":"成交额",
+    "StayUpdated":"保持循环",
+    "SubscribeTo":"订阅接收DApp生态上的更新",
+    "Enter":"在此输入您的电子邮件地址",
+    "Subscribe":"订阅",
+    "submitting": "提交...",
+    "thanks": "谢谢！保持联系"
+  },
+  "Dapps":{
+    "platform":"平台",
+    "PREVIOUS":"上一页",
+    "NEXT":"下一页",
+    "Name":"名称",
+    "Category":"类别",
+    "Balance":"余额",
+    "Users":"用户",
+    "Tx":"交易",
+    "Volume":"成交额",
+    "all": "全部"
+  },
+  "common":{
+    "More":"更多",
+    "noMore":"没有啦"
+  },
+  "details":{
+    "launch": "链接到 DApp / Website",
+    "smartContract": "智能合约",
+    "copy": "复制",
+    "chat": "社交聊天",
+    "statistics": "统计",
+    "Balance": "余额",
+    "Transactions": "交易",
+    "users": "用户",
+    "platform": "平台",
+    "tags": "标签",
+    "developer": "开发者",
+    "join": "加入",
+    "Weibo": "微博",
+    "share": "分享"
+  },
+  "footer": {
+    "contentUs": "联系我们",
+    "about": "关于",
+    "newsLetter": "简讯",
+    "blog": "博客",
+    "termsAndConditions": "条款和条约",
+    "privacyPolicy": "隐私政策",
+    "submitDApp": "提交 DApp",
+    "promoteDApp": "推广你的DApp"
+  }
+}

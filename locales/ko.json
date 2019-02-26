@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "홈",
+    "language": "대한민국 - 한국어"
+  },
+  "home":{
+    "Featured":"추천 ",
+    "RankingByPlatform":"플랫폼 별 순위",
+    "RecentlyAdded":"최근에 추가",
+    "latestDapps":"최근 제출 된 Dapps",
+    "viewAll":"모두보기",
+    "Category":"범주",
+    "Users":"사용자",
+    "Volume":"거래량",
+    "StayUpdated":"최신 정보 유지",
+    "SubscribeTo":"최신 dapp 트렌드를 얻으려면 뉴스 레터 구독",
+    "Enter":"여기에 이메일을 입력하십시오.",
+    "Subscribe":"구독하기",
+    "submitting": "제출...",
+    "thanks": "감사합니다!연락"
+  },
+  "Dapps":{
+    "platform":"플랫폼",
+    "PREVIOUS":"너무 이른",
+    "NEXT":"다음 것",
+    "Name":"이름",
+    "Category":"범주",
+    "Balance":"균형",
+    "Users":"사용자",
+    "Tx":"업무",
+    "Volume":"거래량",
+    "all": "모든"
+  },
+  "common":{
+    "More":"더 보기",
+    "noMore":"더 이상 없습니다"
+  },
+  "details":{
+    "launch": "쏘다 DApp / Website",
+    "smartContract": "스마트 계약",
+    "copy": "부",
+    "chat": "소셜 채팅",
+    "statistics": "통계",
+    "Balance": "균형",
+    "Transactions": "업무",
+    "users": "사용자",
+    "platform": "플랫폼",
+    "tags": "태그",
+    "developer": "개발자",
+    "join": "가입",
+    "Weibo": "웨이 보",
+    "share": "몫"
+  },
+  "footer": {
+    "contentUs": "연락",
+    "about": "에 관하다",
+    "newsLetter": "단신",
+    "blog": "블로그",
+    "termsAndConditions": "계약 조건",
+    "privacyPolicy": "보안 정책",
+    "submitDApp": "dapp 내다",
+    "promoteDApp": "너 dapp 촉진"
+  }
+}

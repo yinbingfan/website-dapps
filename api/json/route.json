@@ -1,0 +1,395 @@
+{
+  "getSliding":{
+    "code": "200",
+    "msg": "Successful",
+    "data": [
+      {
+        "id": 3872,
+        "imgurl": "https://cdn.stateofthedapps.com/dapps/actifit/product_image_actifit_c0c33d23d41261ae4d9dfa17cde9b0edfa39c5d9fdcf5e59bf73deabd49a8d30_opti.jpg",
+        "title": "フォートナイト」",
+        "desc":"プレイヤー数2億人、「フォートナイト」(Fortnite)公式ストアが「モネロ」(Monero)を採用",
+        "adFlag": true,
+        "adUrl": "https://www.baidu.com/",
+        "platform": "Ethereum"
+      },
+      {
+        "id": 3873,
+        "imgurl": "https://cdn.stateofthedapps.com/dapps/golem/product_image_golem_a7791c846a93c3b9d5e384c2b9dfc47918e97b86847757de5e281dc16e8a5a12_opti.png",
+        "title": "プBitcoinJSライ",
+        "desc":"ビットバンクが、同社チーフ・ビットコイン・オフィサー（CBO）であるジョナサン・アンダーウッド氏がBitcoinJSのメンテナーに就任したことを発表しました",
+        "adFlag": true,
+        "adUrl": "https://www.baidu.com/",
+        "platform": "Ethereum"
+      },
+      {
+
+        "id": 3874,
+        "imgurl": "https://cdn.stateofthedapps.com/dapps/a-table/product_image_a-table_c47faaca0b65908d548bca4607f88abb2b56e299d2bfc9dd376e5d04f468c865_opti.png",
+        "title": "漁業でICO!",
+        "desc":"漁業でICO!? フィッシャーマン・ジャパン、国内水産業を革新するICOの検討開始",
+        "adFlag": false,
+        "adUrl": "",
+        "platform": "Ethereum"
+      },
+      {
+        "id": 3875,
+        "imgurl": "https://cdn.stateofthedapps.com/dapps/cdp-portal/product_image_cdp-portal_298de2f1db740b94aa6ff9c26c264ccec6459cdc61065b2ed292cf875e070582_opti.jpg",
+        "title": "KuCoin",
+        "desc":"KuCoinが10種類の仮想通貨を上場廃止",
+        "adFlag": false,
+        "adUrl": "",
+        "platform": "Ethereum"
+      }
+    ]
+  },
+  "getRecentlyDapp": {
+    "code": "200",
+    "msg": "Successful",
+    "data": [
+      {
+        "id": 1,
+        "name": "KuCoin",
+        "desc": "KuCoinが10種類の仮想通貨を上場廃止",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/c86ad45589e0470a99630bc18b96c470/1545883979498.jpg",
+        "categoryId": 1,
+        "category": "Game"
+      },
+      {
+        "id": 2,
+        "name": "漁業でICO",
+        "desc": "漁業でICO!? フィッシャーマン・ジャパン、国内水産業を革新するICOの検討開始",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/96d5a2c3255b4f5b89b6b33453318a15/1545984924942.jpg",
+        "categoryId": 3,
+        "category": "Security"
+      },
+      {
+        "id": 1,
+        "name": "KuCoin",
+        "desc": "KuCoinが10種類の仮想通貨を上場廃止",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/c86ad45589e0470a99630bc18b96c470/1545883979498.jpg",
+        "categoryId": 1,
+        "category": "Game"
+      },
+      {
+        "id": 3,
+        "name": "トバンクが",
+        "desc": "トバンクが、同社チーフ・ビットコイン・オフィサー（CBO）であるジョナサン・アンダーウッド氏がBitco",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/18a3962560c0480ca75458d5af3fec75/1546491987311.jpg",
+        "categoryId": 4,
+        "category": "Collectibles"
+      },
+      {
+        "id": 4,
+        "name": "フォートナイト",
+        "desc": "プレイヤー数2億人、「フォートナイト」(Fortnite)公式ストアが「モネロ」(Monero)を採用",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/d7b5ef9b82cc4635bb4e9601a1f9bb1e/1546502354819.jpg",
+        "categoryId": 5,
+        "category": "Storage"
+      },
+      {
+        "id": 1,
+        "name": "KuCoin",
+        "desc": "KuCoinが10種類の仮想通貨を上場廃止",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/c86ad45589e0470a99630bc18b96c470/1545883979498.jpg",
+        "categoryId": 1,
+        "category": "Game"
+      },
+      {
+        "id": 3,
+        "name": "トバンクが",
+        "desc": "トバンクが、同社チーフ・ビットコイン・オフィサー（CBO）であるジョナサン・アンダーウッド氏がBitco",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/18a3962560c0480ca75458d5af3fec75/1546491987311.jpg",
+        "categoryId": 4,
+        "category": "Collectibles"
+      },
+      {
+        "id": 5,
+        "name": "無料で学べる",
+        "desc": "無料で学べる! 仮想通貨・ブロックチェーンのオンライン学習サービス「PoL」(ポル)オープンβ版が公開",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/deb8d62fc6cf400eaa4580f0c7607c7e/1545881011615.jpg",
+        "categoryId": 6,
+        "category": "Security"
+      },
+      {
+        "id": 2,
+        "name": "漁業でICO",
+        "desc": "漁業でICO!? フィッシャーマン・ジャパン、国内水産業を革新するICOの検討開始",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/96d5a2c3255b4f5b89b6b33453318a15/1545984924942.jpg",
+        "categoryId": 3,
+        "category": "Security"
+      },
+      {
+        "id": 3,
+        "name": "トバンクが",
+        "desc": "トバンクが、同社チーフ・ビットコイン・オフィサー（CBO）であるジョナサン・アンダーウッド氏がBitco",
+        "logoUrl": "//media.thedbit.com/dailymedia/pro/image/18a3962560c0480ca75458d5af3fec75/1546491987311.jpg",
+        "categoryId": 4,
+        "category": "Collectibles"
+      }
+    ]
+  },
+  "getDappTop": {
+    "code": "200",
+    "msg": "Successful",
+    "data": [
+      {
+        "id": 26,
+        "name": "Bancor Network (EOS)",
+        "platform": "ETH",
+        "logoUrl": "https://cdn.stateofthedapps.com/dapps/eos-knights/icon_small_eos-knights_00d845947e3ca7d3fd95299b10c89c9d3b5fcb0aac1a21f34be995cfab8b4752_opti.png",
+        "categoryId": 1,
+        "category": "Game",
+        "users": "521",
+        "volume": "87471"
+      },
+      {
+        "id": 27,
+        "name": "Karma",
+        "platform": "ETH",
+        "logoUrl":"https://cdn.stateofthedapps.com/dapps/bancor-network-eos/icon_small_bancor-network-eos_9405220694db48ecb072dd0e9759e2e263324fce653232ced2462e0b90ff9331_opti.png",
+        "categoryId": 2,
+        "category": "Game",
+        "users": "220",
+        "volume": "4147"
+      },
+      {
+        "id": 28,
+        "name": "BancorX",
+        "platform": "ETH",
+        "logoUrl":"https://cdn.stateofthedapps.com/dapps/karma/icon_small_karma_4272058cd41018d406f2b82538498f461e1b25df3a9121274b813dd4e8768de9_opti.png",
+        "categoryId": 3,
+        "category": "Game",
+        "users": "220",
+        "volume": "851"
+      },
+      {
+        "id": 29,
+        "name": "EOS Knights",
+        "platform": "ETH",
+        "logoUrl":"https://cdn.stateofthedapps.com/dapps/lescovex-dex/icon_lescovex-dex_e456d1648a6a4c890fcbed0cd8e61fa3a6c070de8d7b142959099d3c05f92c42_opti.png",
+        "categoryId": 4,
+        "category": "Game",
+        "users": "454",
+        "volume": "6954"
+      },
+      {
+        "id": 30,
+        "name": "Everipedia",
+        "platform": "ETH",
+        "logoUrl": "https://cdn.stateofthedapps.com/dapps/everipedia/icon_small_everipedia_4390b7c7733ae3c8d55444e428812bb02f254d983abc13caca2f7b48428ec405_opti.png",
+        "categoryId": 5,
+        "category": "Game",
+        "users": "978",
+        "volume": "22354"
+      }
+    ]
+  },
+  "getdappDetails": {
+    "code": "200",
+    "msg": "Successful",
+    "data": {
+      "id": 1,
+      "categoryId": 1,
+      "category": "Game",
+      "logoUrl": "https://cdn.stateofthedapps.com/dapps/fish-hunter/icon_small_fish-hunter_c843ced6ac862fe96a8a5130de9fd9bfaf0dacbb99d8de735ed9d44f0729e81f_opti.png",
+      "name": "Fish Hunter",
+      "description": "UnicornGO is a cryptocollection game featuring advanced graphics and elements of full-scale gameplay. It also supports geolocation assets and augmented reality. The game is based on Ethereum and Universa and has its own currency — CANDYCOIN",
+      "seoDesc": "11111",
+      "websiteUrl": "http://www.baidu.com",
+      "youtubeUrl": "http://www.baidu.com",
+      "youkuUrl": "http://www.baidu.com",
+      "banner":[
+        {"id": 4742, "url": "https://cdn.stateofthedapps.com/dapps/fundition/product_image_fundition_4727ce3f908ad23912096d7968bf24bbc14162b22566d8f12116322ba0b702ff_opti.jpg"},
+        {"id": 4742, "url": "https://cdn.stateofthedapps.com/dapps/fundition/product_image_fundition_4727ce3f908ad23912096d7968bf24bbc14162b22566d8f12116322ba0b702ff_opti.jpg"},
+        {"id": 4742, "url": "https://cdn.stateofthedapps.com/dapps/fundition/product_image_fundition_4727ce3f908ad23912096d7968bf24bbc14162b22566d8f12116322ba0b702ff_opti.jpg"}
+      ],
+      "facebook": "1",
+      "twitter": "11",
+      "wechat": "111",
+      "qq": "1111",
+      "weibo": "11111",
+      "discord": "1111111",
+      "telegram": "11111",
+      "reddit": "1111",
+      "github": "1",
+      "medium": "111",
+      "balance": "45445458",
+      "users24h": "415462485",
+      "tx24h": "1254694225",
+      "platform": "ETH",
+      "developer": "ETHth",
+      "langCode": "cn",
+      "tags": [
+        {"id": 4742, "name": "multiplayer"},
+        {"id": 4742, "name": "entertainment"},
+        {"id": 4742, "name": "collectible"},
+        {"id": 4742, "name": "metamask"},
+        {"id": 4742, "name": "assets"},
+        {"id": 4742, "name": "JARICOS"}
+      ],
+      "smartContract": [
+        {"id": 4742, "name": "0x2205098d5bfde3588697d71145c8fb1c9ebaef86"},
+        {"id": 4742, "name": "0xb1690c08e213a35ed9bab7b318de14420fb57d8c"},
+        {"id": 4742, "name": "0x52d3ec187457a106d2ec546be4cb8a11d9be2527"}
+      ]
+    }
+  },
+  "getfindDapps": {
+    "code": "200",
+    "msg": "Successful",
+    "data": [
+      {
+        "id": 26,
+        "name": "Everdragons",
+        "desc": "Get started with crypto - by playing!",
+        "logoUrl": "https://cdn.stateofthedapps.com/dapps/everdragons/icon_small_everdragons_5e1d163b9e63c1aff845847438aae90adc32389780d221f9772e73d39ede11fc_opti.png",
+        "platform": "ETH",
+        "categoryId": 1,
+        "category": "Game",
+        "balance": "24545",
+        "users24h": "35445",
+        "tx24h": "32365",
+        "volume24h": "2352",
+        "tx7d": "35622",
+        "volume7d": "3545",
+        "userActivity": "87954",
+        "code": "1547031696414",
+        "langCode": "en",
+        "description": "2222",
+        "medium": "2222",
+        "delFlag": 0,
+        "topTime": null,
+        "title": "2222",
+        "seoDesc": "22222",
+        "onlineFlag": 0,
+        "lastestFlag": 1,
+        "updateId": 1,
+        "reddit": "2",
+        "dappid": 1,
+        "updateTime": 1547112786196,
+        "sort": null,
+        "discord": "22",
+        "createId": 1
+      },
+      {
+        "id": 26,
+        "name": "Everdragons",
+        "desc": "Get started with crypto - by playing!",
+        "logoUrl": "https://cdn.stateofthedapps.com/dapps/everdragons/icon_small_everdragons_5e1d163b9e63c1aff845847438aae90adc32389780d221f9772e73d39ede11fc_opti.png",
+        "platform": "ETH",
+        "categoryId": 1,
+        "category": "Game",
+        "balance": "24545",
+        "users24h": "35445",
+        "tx24h": "32365",
+        "volume24h": "2352",
+        "tx7d": "35622",
+        "volume7d": "3545",
+        "userActivity": "87954",
+        "code": "1547031696414",
+        "langCode": "en",
+        "description": "2222",
+        "medium": "2222",
+        "delFlag": 0,
+        "topTime": null,
+        "title": "2222",
+        "seoDesc": "22222",
+        "onlineFlag": 0,
+        "lastestFlag": 1,
+        "updateId": 1,
+        "reddit": "2",
+        "dappid": 1,
+        "updateTime": 1547112786196,
+        "sort": null,
+        "discord": "22",
+        "createId": 1
+      },
+      {
+        "id": 26,
+        "name": "Everdragons",
+        "desc": "Get started with crypto - by playing!",
+        "logoUrl": "https://cdn.stateofthedapps.com/dapps/everdragons/icon_small_everdragons_5e1d163b9e63c1aff845847438aae90adc32389780d221f9772e73d39ede11fc_opti.png",
+        "platform": "ETH",
+        "categoryId": 1,
+        "category": "Game",
+        "balance": "24545",
+        "users24h": "35445",
+        "tx24h": "32365",
+        "volume24h": "2352",
+        "tx7d": "35622",
+        "volume7d": "3545",
+        "userActivity": "87954",
+        "code": "1547031696414",
+        "langCode": "en",
+        "description": "2222",
+        "medium": "2222",
+        "delFlag": 0,
+        "topTime": null,
+        "title": "2222",
+        "seoDesc": "22222",
+        "onlineFlag": 0,
+        "lastestFlag": 1,
+        "updateId": 1,
+        "reddit": "2",
+        "dappid": 1,
+        "updateTime": 1547112786196,
+        "sort": null,
+        "discord": "22",
+        "createId": 1
+      }
+    ]
+  },
+  "getCategory": {
+    "code": "200",
+    "msg": "Successful",
+    "data": [
+      {
+        "id": 134,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name": "Games"
+      },
+      {
+        "id": 135,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name": "Socail"
+      },
+      {
+        "id": 136,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name": "Exchange"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "Collectibles"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "Security"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "Storage"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "Finance"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "High-risk"
+      },
+      {
+        "id" : 137,
+        "logoUrl":"https://www.stateofthedapps.com/_nuxt/img/85d14f8.png",
+        "name" : "all"
+      }
+
+    ]
+  }
+
+}

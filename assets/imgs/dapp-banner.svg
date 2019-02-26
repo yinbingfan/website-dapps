@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="170px" viewBox="0 0 1920 170" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>all dapp copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1920" height="170"></rect>
+        <path d="M1391.17735,1211.47153 C2354.91461,1053.81586 2689.93777,717.578602 2396.24681,202.75976 L110.30592,576.711831 C-57.0962752,1166.95989 369.860868,1378.54646 1391.17735,1211.47153 Z" id="path-3"></path>
+        <linearGradient x1="81.8797717%" y1="8.65191667%" x2="-3.60317921%" y2="119.017154%" id="linearGradient-5">
+            <stop stop-color="#8CC8FF" stop-opacity="0.0451483243" offset="0%"></stop>
+            <stop stop-color="#385DD3" stop-opacity="0.0367130888" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.9902857%" y1="6.93740616%" x2="-1.31216398%" y2="61.1822469%" id="linearGradient-6">
+            <stop stop-color="#97CFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3081DC" stop-opacity="0.159646739" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="88.0115799%" y1="10.3093305%" x2="12.7815673%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#4B8FFB" offset="0%"></stop>
+            <stop stop-color="#2865D3" stop-opacity="0.386690444" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="all-dapp-copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Path-28-+-Path-27-+-Path-9-Mask">
+            <g id="Group-2">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g mask="url(#mask-2)">
+                    <g transform="translate(-348.000000, -1057.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#FFFFFF" fill-rule="evenodd" transform="translate(1287.042361, 734.759760) rotate(370.000000) translate(-1287.042361, -734.759760) " xlink:href="#path-3"></use>
+                        <path d="M529,1139 C590,1069.99317 766.588217,1052.61397 915.567729,1119.35503 C1064.54724,1186.09609 1298.04397,1244.67991 1452.75347,1209.82624 C1607.46296,1174.97258 1742.83377,1086.72607 1782.22739,1064.47905 C1821.62101,1042.23203 1934.78814,1023.69284 2014.29163,1106.74838 C2067.29395,1162.11874 2084.4839,1236.9089 2065.86146,1331.11885 L604,1331.11885 C513.333333,1249.04417 488.333333,1185.00455 529,1139 Z" id="Path-28" stroke="none" fill="url(#linearGradient-5)" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                        <path d="M350,1110.5 C422.5,1041.35303 613.853351,1059 741.886992,1059 C827.242752,1059 948.48673,1091.52737 1105.61892,1156.58211 C1221.04319,1193.84073 1305.67149,1209.36516 1359.50381,1203.15539 C1440.2523,1193.84073 1635.6967,1110.5 1758.63809,1110.5 C1840.59902,1110.5 1921.42864,1133.54899 2001.12694,1179.64697 L2001.12694,1354.40765 L480,1354.40765 C345,1237.90053 301.666667,1156.59798 350,1110.5 Z" id="Path-27" stroke="none" fill="url(#linearGradient-6)" fill-rule="evenodd" opacity="0.533928571" mask="url(#mask-4)"></path>
+                        <path d="M2025,1190.95973 C1907.50664,1128.96864 1796.80586,1100.12129 1692.89767,1104.41771 C1555.21014,1109.94167 1502.33813,1157.81598 1411.46436,1173.4672 C1362.99835,1184.51512 1198.87481,1202.00765 1093.13079,1185.8961 C987.386764,1169.78456 896.282617,1152.32391 835.379729,1190.95973 C794.777804,1216.71695 829.658645,1247.40561 940.022253,1283.02572 L2025,1283.02572 L2025,1190.95973 Z" id="Path-9" stroke="none" fill="url(#linearGradient-7)" fill-rule="evenodd" opacity="0.0322544643" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <path d="M608,40.25 L653,40.25" id="Path-5-Copy-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

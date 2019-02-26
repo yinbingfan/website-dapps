@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "language": "日本 - 日本語"
+  },
+  "home":{
+    "Featured":"おすすめ ",
+    "RankingByPlatform":"プラットフォーム別ランキング",
+    "RecentlyAdded":"最近追加された",
+    "latestDapps":"最近送信された最新のDapp",
+    "viewAll":"全て見る",
+    "Category":"カテゴリー",
+    "Users":"ユーザー",
+    "Volume":"ボリューム",
+    "StayUpdated":"最新の状態に保つ",
+    "SubscribeTo":"最新のdappトレンドを知るために私達のニュースレターを購読する",
+    "Enter":"メールアドレスを入力",
+    "Subscribe":"申し込む",
+    "submitting": "提出する...",
+    "thanks": "ありがとう！連絡を続ける"
+  },
+  "Dapps":{
+    "platform":"プラットフォーム",
+    "PREVIOUS":"前",
+    "NEXT":"次",
+    "Name":"お名前",
+    "Category":"カテゴリー",
+    "Balance":"バランス",
+    "Users":"ユーザー",
+    "Tx":"取引",
+    "Volume":"ボリューム",
+    "all": "すべて"
+  },
+  "common":{
+    "More":"もっと読み込む",
+    "noMore":"以上"
+  },
+  "details":{
+    "launch": "起動する DApp / Website",
+    "smartContract": "スマート契約",
+    "copy": "コピーする",
+    "chat": "ソーシャルチャット",
+    "statistics": "統計",
+    "Balance": "バランス",
+    "Transactions": "取引",
+    "users": "ユーザー",
+    "platform": "プラットフォーム",
+    "tags": "タグ",
+    "developer": "開発者",
+    "join": "参加する",
+    "Weibo": "ウェイボ",
+    "share": "シェア"
+  },
+  "footer": {
+    "contentUs": "私たちに連絡する",
+    "about": "について",
+    "newsLetter": "メッセージ",
+    "blog": "ブログ",
+    "termsAndConditions": "条件",
+    "privacyPolicy": "プライバシーポリシー",
+    "submitDApp": "DAPPを提出する",
+    "promoteDApp": "あなたのDApp"
+  }
+}

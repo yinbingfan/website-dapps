@@ -1,0 +1,47 @@
+{
+  "name": "dappweb",
+  "version": "1.0.0",
+  "description": "My awe-inspiring Nuxt.js project",
+  "author": "harvest_wang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --port 3456",
+    "start": "nuxt --port 3456",
+    "api": "cd api/json && json-server -p 8888 -w route.json",
+    "lint": "eslint -c build-tools/.eslintrc --ext .js,.vue --ignore-path .gitignore .",
+    "lintfix": "eslint -c build-tools/.eslintrc --fix --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "consola": "^2.3.2",
+    "cross-env": "^5.2.0",
+    "echarts": "^4.2.0-rc.2",
+    "element-ui": "^2.4.6",
+    "nuxt": "^2.0.0",
+    "vue-clipboard2": "^0.2.1",
+    "vue-echarts": "^3.1.3",
+    "vue-i18n": "^8.7.0",
+    "vue-lazyload": "^1.2.6",
+    "vue-qriously": "^1.1.1",
+    "vue-social-sharing": "^2.3.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^5.1.0",
+    "json-server": "^0.14.2",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
+    "nodemon": "^1.11.0",
+    "prettier": "^1.15.3"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "language": "English"
+  },
+  "home":{
+    "Featured":"Featured ",
+    "RankingByPlatform":"Ranking by Platform",
+    "RecentlyAdded":"Recently added",
+    "latestDapps":"The latest Dapps submitted recently",
+    "viewAll":"view all",
+    "Category":"Category",
+    "Users":"Users",
+    "Volume":"Volume",
+    "StayUpdated":"Stay updated",
+    "SubscribeTo":"Subscribe to our newsletter to get the latest dapp trend",
+    "Enter":"Enter you email here",
+    "Subscribe":"Subscribe",
+    "submitting": "submitting...",
+    "thanks": "Thanks for your subscribing!"
+  },
+  "Dapps":{
+    "platform":"platform",
+    "PREVIOUS":"PREVIOUS",
+    "NEXT":"NEXT",
+    "Name":"Name",
+    "Category":"Category",
+    "Balance":"Balance",
+    "Users":"Users",
+    "Tx":"Tx",
+    "Volume":"Volume",
+    "all": "all"
+  },
+  "common":{
+    "More":"More",
+    "noMore":"No More"
+  },
+  "details":{
+    "launch": "Launch DApp / Website",
+    "smartContract": "Smart Contract",
+    "copy": "copy",
+    "chat": "Chat with others",
+    "statistics": "Statistics",
+    "Balance": "Balance",
+    "Transactions": "Transactions",
+    "users": "Daily Active Uesers",
+    "platform": "Platform",
+    "tags": "tags",
+    "developer": "Developer",
+    "join": "join",
+    "Weibo": "Weibo",
+    "share": "Share"
+  },
+  "footer": {
+    "contentUs": "Contact us",
+    "about": "About",
+    "newsLetter": "Newsletter",
+    "blog": "Blog",
+    "termsAndConditions": "Terms and conditions",
+    "privacyPolicy": "Privacy policy",
+    "submitDApp": "Submit a DApp",
+    "promoteDApp": "Promote your DApp"
+  }
+}
